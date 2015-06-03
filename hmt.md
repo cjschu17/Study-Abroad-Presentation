@@ -37,12 +37,10 @@ Oral tradition and multiformity
 
 
 ![Correction of ω to η from a main scholion on 15r][Img2]
-Correction of ω to η from a main scholion on 15r
 	
 [Img2]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA015RN-0016.tif&RGN=0.383,0.1878,0.065,0.012&WID=9000&CVT=JPEG
 
 ![Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v][Img3]
-Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v
 
 [Img3]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA180VN-0682.tif&RGN=0.462,0.5244,0.051,0.0128&WID=9000&CVT=JPEG
 
@@ -93,9 +91,9 @@ Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v
 
 > [The mark is here] because it is Homeric to understand [the word] “τίς” instead of [writing] “γνοίη τίς ἂν”. For it is also accustomed since the person is not being assumed; hence the word happens to be used in this way: “οὐδε κε φαίης” instead of “φαίη τίς ἂν.”
 
-[sch1zoom]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA181VN-0683@0.224,0.3636,0.229,0.1195
+[sch1zoom]: http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA181VN-0683@0.224,0.3636,0.229,0.1195
 
-[sch1image]: http://beta.hpcc.uh.edu/fcgi-bin/iipsrv.fcgi?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.224,0.3636,0.229,0.1195&WID=8000&CVT=JPEG
+[sch1image]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.224,0.3636,0.229,0.1195&WID=8000&CVT=JPEG
 
 ***
 
@@ -108,10 +106,10 @@ Interior scholion
 [![Interior scholion][sch2image]][sch2zoom]
 
 
-[sch2zoom]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA181VN-0683@0.876,0.3606,0.06,0.0376
+[sch2zoom]: http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA181VN-0683@0.876,0.3606,0.06,0.0376
 
 
-[sch2image]:  http://beta.hpcc.uh.edu/fcgi-bin/iipsrv.fcgi?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.876,0.3606,0.06,0.0376&WID=8000&CVT=JPEG
+[sch2image]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.876,0.3606,0.06,0.0376&WID=8000&CVT=JPEG
 
 ***
 
