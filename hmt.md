@@ -116,7 +116,8 @@ Interior scholion
 
 - Why are there two comments on this one line?
 - What does this indicate about the source material for the various types of scholia?
-- 
+
+
 ***
 
 #Present Work#
