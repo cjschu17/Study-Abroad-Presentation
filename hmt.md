@@ -100,6 +100,22 @@ Oral tradition and multiformity
 
 ***
 
+Interior scholion
+
+
+
+> Aristophanes has “γνοίη” without the “ς”
+
+[![Interior scholion][sch2image]][sch2zoom]
+
+
+[sch2zoom]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA181VN-0683@0.876,0.3606,0.06,0.0376
+
+
+[sch2image]:  http://beta.hpcc.uh.edu/fcgi-bin/iipsrv.fcgi?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.876,0.3606,0.06,0.0376&WID=8000&CVT=JPEG
+
+***
+
 #Present Work#
 
 - Book 18: The Shield of Achilles 
