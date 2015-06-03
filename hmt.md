@@ -57,6 +57,7 @@ Oral tradition and multiformity
 
 #Collaboration with other Institutions#
 
+- College of the Holy Cross (Manuscripts, Inscriptions, and Documents Club)
 - Brandeis University
 - Furman Univeristy
 - Gustavus Adolphus College
