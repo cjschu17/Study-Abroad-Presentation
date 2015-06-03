@@ -83,9 +83,6 @@ Oral tradition and multiformity
 
 
 
-- Why are there two comments on this one line?
-- What does this indicate about the source material for the various types of scholia?
-
 ***
 
 
@@ -114,6 +111,12 @@ Interior scholion
 
 [sch2image]:  http://beta.hpcc.uh.edu/fcgi-bin/iipsrv.fcgi?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA181VN-0683.tif&RGN=0.876,0.3606,0.06,0.0376&WID=8000&CVT=JPEG
 
+***
+
+
+- Why are there two comments on this one line?
+- What does this indicate about the source material for the various types of scholia?
+- 
 ***
 
 #Present Work#
