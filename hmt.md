@@ -1,8 +1,8 @@
-#Homer Multitext Project#
+# Homer Multitext Project#
 
 ---
 
-#Scribal Tradition of the Iliad#
+# Scribal Tradition of the *Iliad* #
 
 Oral tradition and multiformity
 
@@ -31,8 +31,8 @@ Oral tradition and multiformity
 
 ![XML of 12r][Img1]
 
-[Img1]: https://github.com/cjschu17/Study-Abroad-Presentation/blob/master/prespics/imgs/ScreenShot.png
- 
+[Img1]:  ScreenShot.png 
+
 ---
 
 
@@ -42,7 +42,8 @@ Oral tradition and multiformity
 
 ![Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v][Img3]
 
-[Img3]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA180VN-0682.tif&RGN=0.462,0.5244,0.051,0.0128&WID=9000&CVT=JPEG
+[Img3]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA180VN-0682.tif&RGN=0.462,0.5244,0.051,0.0128&WID=9000&CVT=JPEG
+
 
 ---
 
