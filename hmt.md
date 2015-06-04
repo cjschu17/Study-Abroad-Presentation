@@ -37,10 +37,12 @@ Oral tradition and multiformity
 
 
 ![Correction of ω to η from a main scholion on 15r][Img2]
+	Correction of ω to η from a main scholion on 15r
 	
 [Img2]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA015RN-0016.tif&RGN=0.383,0.1878,0.065,0.012&WID=9000&CVT=JPEG
 
 ![Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v][Img3]
+Abbreviation of Zenod to Zenodotus from an inter marginal scholion on 180v
 
 [Img3]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA180VN-0682.tif&RGN=0.462,0.5244,0.051,0.0128&WID=9000&CVT=JPEG
 
